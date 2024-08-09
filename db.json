@@ -1,0 +1,242 @@
+[
+    {
+        "train_from": "New Delhi",
+        "train_to": "Mumbai Central",
+        "stations_between": ["Mathura Junction", "Agra Cantt", "Gwalior Junction", "Jhansi Junction", "Bhopal Junction", "Khandwa Junction", "Bhusaval Junction", "Nasik Road"]
+    },
+    {
+        "train_from": "Chennai Central",
+        "train_to": "Howrah Junction",
+        "stations_between": ["Vijayawada Junction", "Visakhapatnam Junction", "Brahmapur", "Kharagpur Junction"]
+    },
+    {
+        "train_from": "Bangalore City",
+        "train_to": "Hyderabad Deccan",
+        "stations_between": ["Yelahanka Junction", "Penukonda", "Dharmavaram Junction", "Guntakal Junction", "Raichur"]
+    },
+    {
+        "train_from": "Ahmedabad Junction",
+        "train_to": "Jaipur Junction",
+        "stations_between": ["Mehsana Junction", "Palanpur Junction", "Abu Road", "Marwar Junction", "Ajmer Junction"]
+    },
+    {
+        "train_from": "Kolkata Sealdah",
+        "train_to": "Puri",
+        "stations_between": ["Kharagpur Junction", "Balasore", "Cuttack", "Bhubaneswar"]
+    },
+    {
+        "train_from": "Mumbai CST",
+        "train_to": "Goa Madgaon",
+        "stations_between": ["Thane", "Panvel", "Chiplun", "Ratnagiri", "Kudal"]
+    },
+    {
+        "train_from": "Lucknow NR",
+        "train_to": "Varanasi Junction",
+        "stations_between": ["Sultanpur Junction", "Jaunpur Junction"]
+    },
+    {
+        "train_from": "Patna Junction",
+        "train_to": "Delhi Junction",
+        "stations_between": ["Mughalsarai Junction", "Allahabad Junction", "Kanpur Central", "Aligarh Junction"]
+    },
+    {
+        "train_from": "Chennai Central",
+        "train_to": "Trivandrum Central",
+        "stations_between": ["Vellore Cantonment", "Salem Junction", "Erode Junction", "Coimbatore Junction", "Palakkad Junction", "Ernakulam Junction", "Kollam Junction"]
+    },
+    {
+        "train_from": "Mumbai Central",
+        "train_to": "Jaipur Junction",
+        "stations_between": ["Borivali", "Surat", "Vadodara Junction", "Ratlam Junction", "Kota Junction"]
+    },
+    {
+        "train_from": "New Delhi",
+        "train_to": "Amritsar Junction",
+        "stations_between": ["Panipat Junction", "Ambala Cantt Junction", "Ludhiana Junction", "Jalandhar City"]
+    },
+    {
+        "train_from": "Chennai Central",
+        "train_to": "Bangalore City",
+        "stations_between": ["Arakkonam Junction", "Katpadi Junction", "Jolarpettai Junction", "Krishnarajapuram"]
+    },
+    {
+        "train_from": "Mumbai CST",
+        "train_to": "Ahmedabad Junction",
+        "stations_between": ["Borivali", "Vapi", "Surat", "Vadodara Junction", "Nadiad Junction"]
+    },
+    {
+        "train_from": "Howrah Junction",
+        "train_to": "Patna Junction",
+        "stations_between": ["Bardhaman Junction", "Asansol Junction", "Jhajha", "Mokama Junction"]
+    },
+    {
+        "train_from": "New Delhi",
+        "train_to": "Chennai Central",
+        "stations_between": ["Mathura Junction", "Agra Cantt", "Jhansi Junction", "Bhopal Junction", "Nagpur Junction", "Warangal"]
+    },
+    {
+        "train_from": "Kolkata Sealdah",
+        "train_to": "Delhi Junction",
+        "stations_between": ["Bardhaman Junction", "Dhanbad Junction", "Gaya Junction", "Mughalsarai Junction", "Kanpur Central"]
+    },
+    {
+        "train_from": "Bangalore City",
+        "train_to": "Mysore Junction",
+        "stations_between": ["Kengeri", "Ramanagaram", "Mandya"]
+    },
+    {
+        "train_from": "Mumbai Central",
+        "train_to": "Indore Junction",
+        "stations_between": ["Borivali", "Surat", "Vadodara Junction", "Ratlam Junction", "Ujjain Junction"]
+    },
+    {
+        "train_from": "Chennai Egmore",
+        "train_to": "Madurai Junction",
+        "stations_between": ["Tambaram", "Chengalpattu", "Villupuram Junction", "Tiruchirappalli Junction", "Dindigul Junction"]
+    },
+    {
+        "train_from": "Howrah Junction",
+        "train_to": "Mumbai CST",
+        "stations_between": ["Kharagpur Junction", "Tatanagar Junction", "Rourkela", "Bilaspur Junction", "Nagpur Junction"]
+    },
+    {
+        "train_from": "New Delhi",
+        "train_to": "Guwahati",
+        "stations_between": ["Bareilly", "Lucknow NR", "Gorakhpur Junction", "Muzaffarpur Junction", "Katihar Junction", "New Jalpaiguri"]
+    },
+    {
+        "train_from": "Mumbai CST",
+        "train_to": "Nagpur Junction",
+        "stations_between": ["Kalyan Junction", "Nasik Road", "Manmad Junction", "Bhusaval Junction", "Akola Junction", "Badnera Junction"]
+    },
+    {
+        "train_from": "Chennai Central",
+        "train_to": "Tirupati",
+        "stations_between": ["Arakkonam Junction", "Renigunta Junction"]
+    },
+    {
+        "train_from": "Ahmedabad Junction",
+        "train_to": "Delhi Junction",
+        "stations_between": ["Mehsana Junction", "Abu Road", "Ajmer Junction", "Jaipur Junction", "Alwar Junction"]
+    },
+    {
+        "train_from": "Kolkata Sealdah",
+        "train_to": "Dibrugarh Town",
+        "stations_between": ["Bardhaman Junction", "Malda Town", "New Jalpaiguri", "New Cooch Behar", "Guwahati", "Lumding Junction"]
+    },
+    {
+        "train_from": "Bangalore City",
+        "train_to": "Mumbai CST",
+        "stations_between": ["Yelahanka Junction", "Tumkur", "Arsikere Junction", "Hubli Junction", "Belgaum", "Pune Junction"]
+    },
+    {
+        "train_from": "Chennai Central",
+        "train_to": "Coimbatore Junction",
+        "stations_between": ["Arakkonam Junction", "Katpadi Junction", "Salem Junction", "Erode Junction", "Tiruppur"]
+    },
+    {
+        "train_from": "Patna Junction",
+        "train_to": "Howrah Junction",
+        "stations_between": ["Mokama Junction", "Jhajha", "Asansol Junction", "Durgapur"]
+    },
+    {
+        "train_from": "Mumbai CST",
+        "train_to": "Chennai Central",
+        "stations_between": ["Kalyan Junction", "Pune Junction", "Solapur Junction", "Gulbarga", "Wadi Junction", "Yelahanka Junction"]
+    },
+    {
+        "train_from": "New Delhi",
+        "train_to": "Bhubaneswar",
+        "stations_between": ["Kanpur Central", "Mughalsarai Junction", "Ranchi Junction", "Tatanagar Junction", "Balasore", "Cuttack"]
+    },
+    {
+        "train_from": "Ahmedabad Junction",
+        "train_to": "Bangalore City",
+        "stations_between": ["Vadodara Junction", "Surat", "Mumbai Central", "Pune Junction", "Hubli Junction"]
+    },
+    {
+        "train_from": "Chennai Central",
+        "train_to": "Visakhapatnam Junction",
+        "stations_between": ["Nellore", "Ongole", "Vijayawada Junction", "Rajahmundry"]
+    },
+    {
+        "train_from": "Lucknow NR",
+        "train_to": "Mumbai CST",
+        "stations_between": ["Kanpur Central", "Jhansi Junction", "Bhopal Junction", "Itarsi Junction", "Khandwa Junction", "Bhusaval Junction"]
+    },
+    {
+        "train_from": "New Delhi",
+        "train_to": "Trivandrum Central",
+        "stations_between": ["Agra Cantt", "Bhopal Junction", "Nagpur Junction", "Vijayawada Junction", "Chennai Central", "Ernakulam Junction"]
+    },
+    {
+        "train_from": "Bangalore City",
+        "train_to": "Kolkata Howrah",
+        "stations_between": ["Yelahanka Junction", "Guntakal Junction", "Vijayawada Junction", "Visakhapatnam Junction", "Brahmapur", "Kharagpur Junction"]
+    },
+    {
+        "train_from": "Mumbai CST",
+        "train_to": "Jaipur Junction",
+        "stations_between": ["Borivali", "Vadodara Junction", "Ratlam Junction", "Chittorgarh Junction", "Ajmer Junction"]
+    },
+    {
+        "train_from": "Howrah Junction",
+        "train_to": "New Delhi",
+        "stations_between": ["Bardhaman Junction", "Dhanbad Junction", "Gaya Junction", "Mughalsarai Junction", "Kanpur Central"]
+    },
+    {
+        "train_from": "Chennai Central",
+        "train_to": "Nagpur Junction",
+        "stations_between": ["Arakkonam Junction", "Katpadi Junction", "Renigunta Junction", "Vijayawada Junction", "Warangal"]
+    },
+    {
+        "train_from": "Patna Junction",
+        "train_to": "Guwahati",
+        "stations_between": ["Mokama Junction", "Katihar Junction", "New Jalpaiguri", "Guwahati"]
+    },
+    {
+        "train_from": "New Delhi",
+        "train_to": "Patna Junction",
+        "stations_between": ["Aligarh Junction", "Kanpur Central", "Mughalsarai Junction", "Buxar", "Arrah"]
+    },
+    {
+        "train_from": "Ahmedabad Junction",
+        "train_to": "Pune Junction",
+        "stations_between": ["Vadodara Junction", "Surat", "Vapi", "Borivali", "Lonavala"]
+    },
+    {
+        "train_from": "Mumbai CST",
+        "train_to": "Varanasi Junction",
+        "stations_between": ["Kalyan Junction", "Nasik Road", "Bhusaval Junction", "Itarsi Junction", "Jabalpur Junction", "Katni Junction"]
+    },
+    {
+        "train_from": "Chennai Central",
+        "train_to": "Hyderabad Deccan",
+        "stations_between": ["Arakkonam Junction", "Renigunta Junction", "Gudur Junction", "Nellore", "Vijayawada Junction", "Warangal"]
+    },
+    {
+        "train_from": "Lucknow NR",
+        "train_to": "Kolkata Howrah",
+        "stations_between": ["Sultanpur Junction", "Varanasi Junction", "Mughalsarai Junction", "Asansol Junction", "Bardhaman Junction"]
+    },
+    {
+        "train_from": "Bangalore City",
+        "train_to": "Chennai Central",
+        "stations_between": ["Yelahanka Junction", "Jolarpettai Junction", "Katpadi Junction", "Arakkonam Junction"]
+    },
+    {
+        "train_from": "Patna Junction",
+        "train_to": "Mumbai CST",
+        "stations_between": ["Mughalsarai Junction", "Allahabad Junction", "Kanpur Central", "Jhansi Junction", "Bhopal Junction", "Itarsi Junction"]
+    },
+    {
+        "train_from": "Ahmedabad Junction",
+        "train_to": "Chennai Central",
+        "stations_between": ["Vadodara Junction", "Surat", "Mumbai Central", "Pune Junction", "Solapur Junction", "Gulbarga", "Yelahanka Junction"]
+    },
+    {
+        "train_from": "New Delhi",
+        "train_to": "Bangalore City",
+        "stations_between": ["Mathura Junction", "Agra Cantt", "Jhansi Junction", "Bhopal Junction", "Itarsi Junction", "Nagpur Junction", "Yelahanka Junction"]
+    }
+]
